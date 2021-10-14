@@ -8,7 +8,7 @@ Thank you for considering contributing to Lumen! The contribution guide can be f
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability please send an e-mail to Eren Küçüker at erenkucuker@gmail.com. All security vulnerabilities will be promptly addressed.
 
 ## License
 
