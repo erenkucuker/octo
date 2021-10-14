@@ -1,4 +1,4 @@
-# Laravel Lumen Microservice BoilerPlate (Gateway)
+# Laravel Lumen Microservice BoilerPlate
 
 
 
